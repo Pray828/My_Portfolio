@@ -1,1 +1,2 @@
 # My_Portfolio
+This is my website showing my academic journey ,skills and interests. 
